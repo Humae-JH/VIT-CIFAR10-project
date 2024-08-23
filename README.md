@@ -1,2 +1,3 @@
-# VIT-CIFAR10
+# VIT-project
  
+implementing transformer block and vision transformer.
