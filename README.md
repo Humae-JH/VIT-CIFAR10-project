@@ -1,3 +1,3 @@
 # VIT-project
  
-implementing transformer block and vision transformer.
+implement transformer block and vision transformer.
